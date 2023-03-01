@@ -8,12 +8,12 @@ import ReactDOM from 'react-dom/client'
 import Router from './router'
 import ScrollToTop from './base-components/ScrollToTop'
 import { store } from './stores/store'
-import LoadingIcon from './base-components/LoadingIcon'
+import Loader from './components/Loader'
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <BrowserRouter>
     <Provider store={store}>
-      <Suspense fallback={<LoadingIcon />}>
+      <Suspense fallback={<Loader />}>
         <Router />
       </Suspense>
     </Provider>
