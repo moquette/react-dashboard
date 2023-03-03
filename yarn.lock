@@ -1336,10 +1336,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/google.maps@npm:^3.52.0":
-  version: 3.52.0
-  resolution: "@types/google.maps@npm:3.52.0"
-  checksum: 2f5634ac645b3a7bb20a1cfbf2e2651bb4e7f8914598542504d1cb9002be39a2b324fa57658deaf318c3df67fdf4ec1ec598e0d4a8d23d8e4c2a7a2b3bf63e32
+"@types/google.maps@npm:^3.52.1":
+  version: 3.52.1
+  resolution: "@types/google.maps@npm:3.52.1"
+  checksum: 6d7b76672f1ff643a611c81103c1d3003204f9f97a84270e7130cb53c4be37b59842b06a95230e7bca98ddcab87c21b72599a117d24fc640b432f02b2da0a173
   languageName: node
   linkType: hard
 
@@ -1390,10 +1390,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^18.14.2":
-  version: 18.14.2
-  resolution: "@types/node@npm:18.14.2"
-  checksum: 53c07e721f6ae33de71306f6a0b75dae6066a4f55bd5484c93bd59ff25f0c5f004ceafeef509a4d0cb9e24a247efc34d50489bcc1b05a53ecc68e2fc088e65cb
+"@types/node@npm:^18.14.4":
+  version: 18.14.4
+  resolution: "@types/node@npm:18.14.4"
+  checksum: 3f2f625777747b9f87e793eea5a8bbf1ac2c828846bda5811d07a457d55cfe6762239779759de61e7b7e917632b9ceee3f7ffd2a024117e7ec364dc1b4eb8d55
   languageName: node
   linkType: hard
 
@@ -4016,19 +4016,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lucide-react@npm:^0.118.0":
-  version: 0.118.0
-  resolution: "lucide-react@npm:0.118.0"
+"lucide-react@npm:^0.121.0":
+  version: 0.121.0
+  resolution: "lucide-react@npm:0.121.0"
   peerDependencies:
     react: ^16.5.1 || ^17.0.0 || ^18.0.0
-  checksum: ec68e78f1f3911c538d701c45fc5c7b47c1ad0c63c8891c306c396e3018be1f8d1a0e226cb0bab549fc3e7924516ba4a87ba5b6db0143d0486aa48034fa1bf65
+  checksum: a7b3e87a3cfc0180db009adc6c5b1103ed547391aab31577ac987a43cc15d44a58350332504b8021bddf81f03acfcb73771730506acc4ade403e1defef16af21
   languageName: node
   linkType: hard
 
-"lucide@npm:^0.118.0":
-  version: 0.118.0
-  resolution: "lucide@npm:0.118.0"
-  checksum: 35eeff540fdbeeee718e5f9eb6fc5aeb9913258dccbe3c4c60e0c0569da531ff7c60954b01a0f0d5239628bc3dc3300f3a228ac02c42dd55b2fac4134d9fbab3
+"lucide@npm:^0.121.0":
+  version: 0.121.0
+  resolution: "lucide@npm:0.121.0"
+  checksum: 396eb10bf1e91a72853f7c10a54e4eee49dc3c19ed991e3751350c3efcb64d69451adc70b614e19e4de1574effa0d979b5992b5a6653155e367fd91d58390426
   languageName: node
   linkType: hard
 
@@ -4779,10 +4779,10 @@ __metadata:
     "@tailwindcss/forms": ^0.5.3
     "@types/dropzone": ^5.7.4
     "@types/flat": ^5.0.2
-    "@types/google.maps": ^3.52.0
+    "@types/google.maps": ^3.52.1
     "@types/js-beautify": ^1.13.3
     "@types/lodash": ^4.14.191
-    "@types/node": ^18.14.2
+    "@types/node": ^18.14.4
     "@types/react": ^18.0.28
     "@types/react-dom": ^18.0.11
     "@types/react-transition-group": ^4.4.5
@@ -4810,8 +4810,8 @@ __metadata:
     js-beautify: ^1.14.7
     litepicker: ^2.0.12
     lodash: ^4.17.21
-    lucide: ^0.118.0
-    lucide-react: ^0.118.0
+    lucide: ^0.121.0
+    lucide-react: ^0.121.0
     postcss: ^8.4.21
     postcss-advanced-variables: ^3.0.1
     postcss-import: ^15.1.0
