@@ -1390,10 +1390,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^18.14.4":
-  version: 18.14.4
-  resolution: "@types/node@npm:18.14.4"
-  checksum: 3f2f625777747b9f87e793eea5a8bbf1ac2c828846bda5811d07a457d55cfe6762239779759de61e7b7e917632b9ceee3f7ffd2a024117e7ec364dc1b4eb8d55
+"@types/node@npm:^18.14.6":
+  version: 18.14.6
+  resolution: "@types/node@npm:18.14.6"
+  checksum: 2f88f482cabadc6dbddd627a1674239e68c3c9beab56eb4ae2309fb96fd17fc3a509d99b0309bafe13b58529574f49ecf3a583f2ebe2896dd32fe4be436dc96e
   languageName: node
   linkType: hard
 
@@ -4016,19 +4016,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lucide-react@npm:^0.121.0":
-  version: 0.121.0
-  resolution: "lucide-react@npm:0.121.0"
+"lucide-react@npm:^0.122.0":
+  version: 0.122.0
+  resolution: "lucide-react@npm:0.122.0"
   peerDependencies:
     react: ^16.5.1 || ^17.0.0 || ^18.0.0
-  checksum: a7b3e87a3cfc0180db009adc6c5b1103ed547391aab31577ac987a43cc15d44a58350332504b8021bddf81f03acfcb73771730506acc4ade403e1defef16af21
+  checksum: b309bdf3f47a20826876b4010fa3e04c5a48249f5db67b74af41a1d192ce394d31c7288870e44e095981c29e483fdeeb065619716985baa363b05391308ccdaa
   languageName: node
   linkType: hard
 
-"lucide@npm:^0.121.0":
-  version: 0.121.0
-  resolution: "lucide@npm:0.121.0"
-  checksum: 396eb10bf1e91a72853f7c10a54e4eee49dc3c19ed991e3751350c3efcb64d69451adc70b614e19e4de1574effa0d979b5992b5a6653155e367fd91d58390426
+"lucide@npm:^0.122.0":
+  version: 0.122.0
+  resolution: "lucide@npm:0.122.0"
+  checksum: 5d8f9f6a722cfa7535ee378e927221d7806f31dcdaa5fd043fbd98f632ec43f220811e81e58a83afb8d1093987fc6fbaa9dac1f116c22a5afaba804ce2811300
   languageName: node
   linkType: hard
 
@@ -4782,7 +4782,7 @@ __metadata:
     "@types/google.maps": ^3.52.1
     "@types/js-beautify": ^1.13.3
     "@types/lodash": ^4.14.191
-    "@types/node": ^18.14.4
+    "@types/node": ^18.14.6
     "@types/react": ^18.0.28
     "@types/react-dom": ^18.0.11
     "@types/react-transition-group": ^4.4.5
@@ -4810,8 +4810,8 @@ __metadata:
     js-beautify: ^1.14.7
     litepicker: ^2.0.12
     lodash: ^4.17.21
-    lucide: ^0.121.0
-    lucide-react: ^0.121.0
+    lucide: ^0.122.0
+    lucide-react: ^0.122.0
     postcss: ^8.4.21
     postcss-advanced-variables: ^3.0.1
     postcss-import: ^15.1.0
@@ -4820,7 +4820,7 @@ __metadata:
     prop-types: ^15.8.1
     react: ^18.2.0
     react-dom: ^18.2.0
-    react-hook-form: ^7.43.3
+    react-hook-form: ^7.43.4
     react-redux: ^8.0.5
     react-router-dom: 6.8.2
     react-transition-group: ^4.4.5
@@ -4853,12 +4853,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-hook-form@npm:^7.43.3":
-  version: 7.43.3
-  resolution: "react-hook-form@npm:7.43.3"
+"react-hook-form@npm:^7.43.4":
+  version: 7.43.4
+  resolution: "react-hook-form@npm:7.43.4"
   peerDependencies:
     react: ^16.8.0 || ^17 || ^18
-  checksum: 16e03e42d07f696e36d67c0d60671df6d0bc73b9e48876ea99b85cf3aaa4cf40acb0c0e2870169d4a22504c7111c0f658b0b17a4f3fd191ef69c7eea70785a9d
+  checksum: 5ae2672951a0f22420413aa7dcbe185831be5b506d464e2b60d22ba969fe04e5a176dc0c42788098f72a2a7bfac5c7b3ddcdf453eb1fac6f72fd88e84243652f
   languageName: node
   linkType: hard
 
