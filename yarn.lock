@@ -998,7 +998,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fullcalendar/core@npm:^6.1.5":
+"@fullcalendar/core@npm:^6.1.4":
   version: 6.1.5
   resolution: "@fullcalendar/core@npm:6.1.5"
   dependencies:
@@ -1007,7 +1007,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fullcalendar/daygrid@npm:^6.1.5, @fullcalendar/daygrid@npm:~6.1.5":
+"@fullcalendar/daygrid@npm:^6.1.4, @fullcalendar/daygrid@npm:~6.1.5":
   version: 6.1.5
   resolution: "@fullcalendar/daygrid@npm:6.1.5"
   peerDependencies:
@@ -1016,7 +1016,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fullcalendar/interaction@npm:^6.1.5":
+"@fullcalendar/interaction@npm:^6.1.4":
   version: 6.1.5
   resolution: "@fullcalendar/interaction@npm:6.1.5"
   peerDependencies:
@@ -1025,7 +1025,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fullcalendar/list@npm:^6.1.5":
+"@fullcalendar/list@npm:^6.1.4":
   version: 6.1.5
   resolution: "@fullcalendar/list@npm:6.1.5"
   peerDependencies:
@@ -1043,7 +1043,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fullcalendar/react@npm:^6.1.5":
+"@fullcalendar/react@npm:^6.1.4":
   version: 6.1.5
   resolution: "@fullcalendar/react@npm:6.1.5"
   peerDependencies:
@@ -1054,7 +1054,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fullcalendar/resource@npm:^6.1.5":
+"@fullcalendar/resource@npm:^6.1.4":
   version: 6.1.5
   resolution: "@fullcalendar/resource@npm:6.1.5"
   dependencies:
@@ -1065,7 +1065,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fullcalendar/timegrid@npm:^6.1.5":
+"@fullcalendar/timegrid@npm:^6.1.4":
   version: 6.1.5
   resolution: "@fullcalendar/timegrid@npm:6.1.5"
   dependencies:
@@ -1102,15 +1102,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@headlessui/react@npm:1.7.14":
-  version: 1.7.14
-  resolution: "@headlessui/react@npm:1.7.14"
+"@headlessui/react@npm:1.7.11":
+  version: 1.7.11
+  resolution: "@headlessui/react@npm:1.7.11"
   dependencies:
     client-only: ^0.0.1
   peerDependencies:
     react: ^16 || ^17 || ^18
     react-dom: ^16 || ^17 || ^18
-  checksum: 9122114d7a618877a8da2ada000422ce82e6af47195e414076fa5cf45687709479eb30b0df414eed52079be6e5904151bc92e4acfafbdde2592c608f015c490e
+  checksum: 3c9abbc5eaf039fccd309b34269aad761f518c4863e482afddf47579384243ecc0d7b69ecd2f05997e4e079237efa8846c568f5ed8d32df358814a239600de1f
   languageName: node
   linkType: hard
 
@@ -1306,10 +1306,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@remix-run/router@npm:1.5.0":
-  version: 1.5.0
-  resolution: "@remix-run/router@npm:1.5.0"
-  checksum: 9c510c174af1553edd1f039ba16e7e3d34e04d53b3bac18814660e31cd0c48297ea4291ff86d0736b560123ebc63ecb62fa525829181d16a8dad15270d6672d7
+"@remix-run/router@npm:1.3.3":
+  version: 1.3.3
+  resolution: "@remix-run/router@npm:1.3.3"
+  checksum: 9280f1c3e44c0fb84a74b401b5a47022dace06d5da0f26a7a68c7c0e57ad5ef95d30f3c2d333df2db3b63f84de81f7f8caa7e53189a7709d6c3eb466d126ed76
   languageName: node
   linkType: hard
 
@@ -1354,7 +1354,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/google.maps@npm:^3.52.5":
+"@types/google.maps@npm:^3.52.1":
   version: 3.52.5
   resolution: "@types/google.maps@npm:3.52.5"
   checksum: 9b26cc9e68171eed49a5b7ef5f7fb95d8b5db85c4e658bf201b0774ac5daf50fb2e56ffecd6e55d9874aab3e56fdba4772032448cebc39390e0769a9c396ca4e
@@ -1410,14 +1410,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/lodash@npm:*, @types/lodash@npm:^4.14.194":
+"@types/lodash@npm:*, @types/lodash@npm:^4.14.191":
   version: 4.14.194
   resolution: "@types/lodash@npm:4.14.194"
   checksum: 113f34831c461469d91feca2dde737f88487732898b4d25e9eb23b087bb193985f864d1e1e0f3b777edc5022e460443588b6000a3b2348c966f72d17eedc35ea
   languageName: node
   linkType: hard
 
-"@types/node@npm:^18.15.11":
+"@types/node@npm:^18.14.6":
   version: 18.15.11
   resolution: "@types/node@npm:18.15.11"
   checksum: 977b4ad04708897ff0eb049ecf82246d210939c82461922d20f7d2dcfd81bbc661582ba3af28869210f7e8b1934529dcd46bff7d448551400f9d48b9d3bddec3
@@ -1460,7 +1460,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:^18.0.35":
+"@types/react@npm:^18.0.28":
   version: 18.0.35
   resolution: "@types/react@npm:18.0.35"
   dependencies:
@@ -1492,10 +1492,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/tabulator-tables@npm:5.32.1":
-  version: 5.32.1
-  resolution: "@types/tabulator-tables@npm:5.32.1"
-  checksum: 0063ad0ac2b3a760eda6b7f961c73dcb213fc4660c5c438a26d01baa07699431273e60be94d60fae15cb1c414a86c23f4cfe522ed8df85bbc2bb20b1b8b6f595
+"@types/tabulator-tables@npm:5.4.4":
+  version: 5.4.4
+  resolution: "@types/tabulator-tables@npm:5.4.4"
+  checksum: 237fe967a0927f6b84d6061e58cc21442726d9166b03f71c54b85c5426f921f11f3d9c0e7d8a16744437f8ac10238c1df5986c04dc45c494f32fec27ed4e04da
   languageName: node
   linkType: hard
 
@@ -1513,7 +1513,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/eslint-plugin@npm:^5.58.0":
+"@typescript-eslint/eslint-plugin@npm:^5.54.0":
   version: 5.58.0
   resolution: "@typescript-eslint/eslint-plugin@npm:5.58.0"
   dependencies:
@@ -1537,7 +1537,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/parser@npm:^5.58.0":
+"@typescript-eslint/parser@npm:^5.54.0":
   version: 5.58.0
   resolution: "@typescript-eslint/parser@npm:5.58.0"
   dependencies:
@@ -1869,7 +1869,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"autoprefixer@npm:^10.4.14":
+"autoprefixer@npm:^10.4.13":
   version: 10.4.14
   resolution: "autoprefixer@npm:10.4.14"
   dependencies:
@@ -2723,7 +2723,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-prettier@npm:^8.8.0":
+"eslint-config-prettier@npm:^8.6.0":
   version: 8.8.0
   resolution: "eslint-config-prettier@npm:8.8.0"
   peerDependencies:
@@ -2891,7 +2891,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint@npm:^8.38.0":
+"eslint@npm:^8.35.0":
   version: 8.38.0
   resolution: "eslint@npm:8.38.0"
   dependencies:
@@ -4047,19 +4047,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lucide-react@npm:^0.154.0":
-  version: 0.154.0
-  resolution: "lucide-react@npm:0.154.0"
+"lucide-react@npm:^0.122.0":
+  version: 0.122.0
+  resolution: "lucide-react@npm:0.122.0"
   peerDependencies:
     react: ^16.5.1 || ^17.0.0 || ^18.0.0
-  checksum: f8453608f31a5bc1eab29a8a473fa63e5ec21651541fda55abd3fe6c7ca86c16e277d120f712153944ea07764f3011e28b177607ed18dfedc27da453484b1429
+  checksum: b309bdf3f47a20826876b4010fa3e04c5a48249f5db67b74af41a1d192ce394d31c7288870e44e095981c29e483fdeeb065619716985baa363b05391308ccdaa
   languageName: node
   linkType: hard
 
-"lucide@npm:^0.154.0":
-  version: 0.154.0
-  resolution: "lucide@npm:0.154.0"
-  checksum: f6f3be5c6d359de6b65285a78a7395ee9bedc106207f2f642681a6aea41d5a0b3960280a6a92092e2a3f67d5bac38001760aec461152f351cbb0349f59d45fe1
+"lucide@npm:^0.122.0":
+  version: 0.122.0
+  resolution: "lucide@npm:0.122.0"
+  checksum: 5d8f9f6a722cfa7535ee378e927221d7806f31dcdaa5fd043fbd98f632ec43f220811e81e58a83afb8d1093987fc6fbaa9dac1f116c22a5afaba804ce2811300
   languageName: node
   linkType: hard
 
@@ -4264,15 +4264,6 @@ __metadata:
   bin:
     nanoid: bin/nanoid.cjs
   checksum: 2fddd6dee994b7676f008d3ffa4ab16035a754f4bb586c61df5a22cf8c8c94017aadd360368f47d653829e0569a92b129979152ff97af23a558331e47e37cd9c
-  languageName: node
-  linkType: hard
-
-"nanoid@npm:^3.3.6":
-  version: 3.3.6
-  resolution: "nanoid@npm:3.3.6"
-  bin:
-    nanoid: bin/nanoid.cjs
-  checksum: 7d0eda657002738aa5206107bd0580aead6c95c460ef1bdd0b1a87a9c7ae6277ac2e9b945306aaa5b32c6dcb7feaf462d0f552e7f8b5718abfc6ead5c94a71b3
   languageName: node
   linkType: hard
 
@@ -4659,7 +4650,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss-nesting@npm:^11.2.2":
+"postcss-nesting@npm:^11.2.1":
   version: 11.2.2
   resolution: "postcss-nesting@npm:11.2.2"
   dependencies:
@@ -4709,17 +4700,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8.4.22":
-  version: 8.4.22
-  resolution: "postcss@npm:8.4.22"
-  dependencies:
-    nanoid: ^3.3.6
-    picocolors: ^1.0.0
-    source-map-js: ^1.0.2
-  checksum: 7473dfb7ac5b4cb03576c39d687d7fc02c826ab08af97df15b5d3970662532d44a18a0994f392a9c3658ee17c292e7a55990e586b90ca0afcc9f36df13e07029
-  languageName: node
-  linkType: hard
-
 "preact@npm:~10.12.1":
   version: 10.12.1
   resolution: "preact@npm:10.12.1"
@@ -4743,7 +4723,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:^2.8.7":
+"prettier@npm:^2.8.4":
   version: 2.8.7
   resolution: "prettier@npm:2.8.7"
   bin:
@@ -4832,43 +4812,43 @@ __metadata:
     "@ckeditor/ckeditor5-build-decoupled-document": ^36.0.1
     "@ckeditor/ckeditor5-build-inline": ^36.0.1
     "@fullcalendar/common": ^5.11.4
-    "@fullcalendar/core": ^6.1.5
-    "@fullcalendar/daygrid": ^6.1.5
-    "@fullcalendar/interaction": ^6.1.5
-    "@fullcalendar/list": ^6.1.5
-    "@fullcalendar/react": ^6.1.5
-    "@fullcalendar/resource": ^6.1.5
-    "@fullcalendar/timegrid": ^6.1.5
+    "@fullcalendar/core": ^6.1.4
+    "@fullcalendar/daygrid": ^6.1.4
+    "@fullcalendar/interaction": ^6.1.4
+    "@fullcalendar/list": ^6.1.4
+    "@fullcalendar/react": ^6.1.4
+    "@fullcalendar/resource": ^6.1.4
+    "@fullcalendar/timegrid": ^6.1.4
     "@googlemaps/js-api-loader": ^1.15.1
     "@googlemaps/markerclusterer": ^2.0.15
-    "@headlessui/react": 1.7.14
+    "@headlessui/react": 1.7.11
     "@hookform/resolvers": ^2.9.11
     "@left4code/tw-starter": ^3.2.0
     "@reduxjs/toolkit": ^1.9.3
     "@tailwindcss/forms": ^0.5.3
     "@types/dropzone": ^5.7.4
     "@types/flat": ^5.0.2
-    "@types/google.maps": ^3.52.5
+    "@types/google.maps": ^3.52.1
     "@types/js-beautify": ^1.13.3
-    "@types/lodash": ^4.14.194
-    "@types/node": ^18.15.11
-    "@types/react": ^18.0.35
+    "@types/lodash": ^4.14.191
+    "@types/node": ^18.14.6
+    "@types/react": ^18.0.28
     "@types/react-dom": ^18.0.11
     "@types/react-transition-group": ^4.4.5
-    "@types/tabulator-tables": 5.32.1
+    "@types/tabulator-tables": 5.4.4
     "@types/toastify-js": ^1.11.1
-    "@typescript-eslint/eslint-plugin": ^5.58.0
-    "@typescript-eslint/parser": ^5.58.0
+    "@typescript-eslint/eslint-plugin": ^5.54.0
+    "@typescript-eslint/parser": ^5.54.0
     "@vitejs/plugin-react": ^3.1.0
-    autoprefixer: ^10.4.14
+    autoprefixer: ^10.4.13
     chart.js: ^4.2.1
     clsx: ^1.2.1
     dayjs: ^1.11.7
     dropzone: ^6.0.0-beta.2
-    eslint: ^8.38.0
+    eslint: ^8.35.0
     eslint-config-airbnb: 19.0.4
     eslint-config-airbnb-typescript: ^17.0.0
-    eslint-config-prettier: ^8.8.0
+    eslint-config-prettier: ^8.6.0
     eslint-plugin-import: ^2.27.5
     eslint-plugin-jsx-a11y: ^6.7.1
     eslint-plugin-prettier: ^4.2.1
@@ -4879,33 +4859,33 @@ __metadata:
     js-beautify: ^1.14.7
     litepicker: ^2.0.12
     lodash: ^4.17.21
-    lucide: ^0.154.0
-    lucide-react: ^0.154.0
-    postcss: ^8.4.22
+    lucide: ^0.122.0
+    lucide-react: ^0.122.0
+    postcss: ^8.4.21
     postcss-advanced-variables: ^3.0.1
     postcss-import: ^15.1.0
-    postcss-nesting: ^11.2.2
-    prettier: ^2.8.7
+    postcss-nesting: ^11.2.1
+    prettier: ^2.8.4
     prop-types: ^15.8.1
     react: ^18.2.0
     react-dom: ^18.2.0
-    react-hook-form: ^7.43.9
+    react-hook-form: ^7.43.4
     react-redux: ^8.0.5
-    react-router-dom: 6.10.0
+    react-router-dom: 6.8.2
     react-transition-group: ^4.4.5
-    sass: ^1.62.0
-    simplebar: ^6.2.5
+    sass: ^1.58.3
+    simplebar: ^6.2.1
     tabulator-tables: ^5.4.4
-    tailwind-merge: ^1.12.0
-    tailwindcss: ^3.3.1
+    tailwind-merge: ^1.10.0
+    tailwindcss: ^3.2.7
     tiny-slider: ^2.9.4
     tippy.js: ^6.3.7
     toastify-js: ^1.12.0
     tom-select: ^2.2.2
     typescript: ^4.9.5
-    vite: ^4.2.1
+    vite: ^4.1.4
     xlsx: ^0.18.5
-    yup: ^1.1.1
+    yup: ^1.0.2
     zoom-vanilla.js: ^2.0.6
   languageName: unknown
   linkType: soft
@@ -4922,7 +4902,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-hook-form@npm:^7.43.9":
+"react-hook-form@npm:^7.43.4":
   version: 7.43.9
   resolution: "react-hook-form@npm:7.43.9"
   peerDependencies:
@@ -4984,27 +4964,27 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-router-dom@npm:6.10.0":
-  version: 6.10.0
-  resolution: "react-router-dom@npm:6.10.0"
+"react-router-dom@npm:6.8.2":
+  version: 6.8.2
+  resolution: "react-router-dom@npm:6.8.2"
   dependencies:
-    "@remix-run/router": 1.5.0
-    react-router: 6.10.0
+    "@remix-run/router": 1.3.3
+    react-router: 6.8.2
   peerDependencies:
     react: ">=16.8"
     react-dom: ">=16.8"
-  checksum: d048d8cc66e5aec782bd675097d6bf0e5f867f3f0539bff9acdc4a314b5e0e34093944762960ca0977a54c6255272edd262231242b18c4e260d68df6b5288464
+  checksum: eddc8b88e26c66408df894bdcf95efd6731e21b7cbfd7417cd456f0043916279e0559b06c6cdc19c2a55c6aefc4cc745fa4065d3505e519a95adbef0cc89e77f
   languageName: node
   linkType: hard
 
-"react-router@npm:6.10.0":
-  version: 6.10.0
-  resolution: "react-router@npm:6.10.0"
+"react-router@npm:6.8.2":
+  version: 6.8.2
+  resolution: "react-router@npm:6.8.2"
   dependencies:
-    "@remix-run/router": 1.5.0
+    "@remix-run/router": 1.3.3
   peerDependencies:
     react: ">=16.8"
-  checksum: c9fce46147c04257d7d6fa1f5bbfac96c5fdd0b15f26918bd12b2e5fe9143977c5a4452272f9b85795a22e29ec105a60d0bbe036118efc52b383d163cd8829ab
+  checksum: 9e98d03e1f18bfd5a35144a0c675adaf7c46a9ad436efdea2b52ef3a6e501ac6174a67ea90004e1339cd45019d6b1eb370627518320f7af9323ae74e0c6756ad
   languageName: node
   linkType: hard
 
@@ -5236,7 +5216,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sass@npm:^1.62.0":
+"sass@npm:^1.58.3":
   version: 1.62.0
   resolution: "sass@npm:1.62.0"
   dependencies:
@@ -5347,7 +5327,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"simplebar@npm:^6.2.5":
+"simplebar@npm:^6.2.1":
   version: 6.2.5
   resolution: "simplebar@npm:6.2.5"
   dependencies:
@@ -5573,14 +5553,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tailwind-merge@npm:^1.12.0":
+"tailwind-merge@npm:^1.10.0":
   version: 1.12.0
   resolution: "tailwind-merge@npm:1.12.0"
   checksum: 5ef323eec1051c4aa9626e29498f6c058dbbb242ca8156aa298de41ada3eda05a8f5f1260a57112c155f63b2e94c4b4ccab5386d60fae54de07aac6d9dbc60e4
   languageName: node
   linkType: hard
 
-"tailwindcss@npm:^3.3.1":
+"tailwindcss@npm:^3.2.7":
   version: 3.3.1
   resolution: "tailwindcss@npm:3.3.1"
   dependencies:
@@ -5886,7 +5866,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^4.2.1":
+"vite@npm:^4.1.4":
   version: 4.2.1
   resolution: "vite@npm:4.2.1"
   dependencies:
@@ -6063,7 +6043,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"yup@npm:^1.1.1":
+"yup@npm:^1.0.2":
   version: 1.1.1
   resolution: "yup@npm:1.1.1"
   dependencies:

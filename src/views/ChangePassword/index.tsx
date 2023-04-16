@@ -30,7 +30,7 @@ function Main() {
                 <div className="text-slate-500">{fakerData[0].jobs[0]}</div>
               </div>
               <Menu>
-                <Menu.Button tag="a" className="block w-5 h-5" href="/">
+                <Menu.Button className="block w-5 h-5" href="/">
                   <Lucide
                     icon="MoreHorizontal"
                     className="w-5 h-5 text-slate-500"
