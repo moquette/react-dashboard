@@ -998,7 +998,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fullcalendar/core@npm:^6.1.4":
+"@fullcalendar/core@npm:^6.1.5":
   version: 6.1.5
   resolution: "@fullcalendar/core@npm:6.1.5"
   dependencies:
@@ -1007,7 +1007,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fullcalendar/daygrid@npm:^6.1.4, @fullcalendar/daygrid@npm:~6.1.5":
+"@fullcalendar/daygrid@npm:^6.1.5, @fullcalendar/daygrid@npm:~6.1.5":
   version: 6.1.5
   resolution: "@fullcalendar/daygrid@npm:6.1.5"
   peerDependencies:
@@ -1016,7 +1016,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fullcalendar/interaction@npm:^6.1.4":
+"@fullcalendar/interaction@npm:^6.1.5":
   version: 6.1.5
   resolution: "@fullcalendar/interaction@npm:6.1.5"
   peerDependencies:
@@ -1025,7 +1025,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fullcalendar/list@npm:^6.1.4":
+"@fullcalendar/list@npm:^6.1.5":
   version: 6.1.5
   resolution: "@fullcalendar/list@npm:6.1.5"
   peerDependencies:
@@ -1043,7 +1043,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fullcalendar/react@npm:^6.1.4":
+"@fullcalendar/react@npm:^6.1.5":
   version: 6.1.5
   resolution: "@fullcalendar/react@npm:6.1.5"
   peerDependencies:
@@ -1054,7 +1054,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fullcalendar/resource@npm:^6.1.4":
+"@fullcalendar/resource@npm:^6.1.5":
   version: 6.1.5
   resolution: "@fullcalendar/resource@npm:6.1.5"
   dependencies:
@@ -1065,7 +1065,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fullcalendar/timegrid@npm:^6.1.4":
+"@fullcalendar/timegrid@npm:^6.1.5":
   version: 6.1.5
   resolution: "@fullcalendar/timegrid@npm:6.1.5"
   dependencies:
@@ -1114,12 +1114,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@hookform/resolvers@npm:^2.9.11":
-  version: 2.9.11
-  resolution: "@hookform/resolvers@npm:2.9.11"
+"@hookform/resolvers@npm:^3.1.0":
+  version: 3.1.0
+  resolution: "@hookform/resolvers@npm:3.1.0"
   peerDependencies:
     react-hook-form: ^7.0.0
-  checksum: 977ea038bb94457ac9f6c7ca65438ce8fcd0cf7643b9925d8bc4d66df6faa0f49ad642bee7362f86a4d3ff7ff53d18b7aea0597085993971cae00e86bf6eda73
+  checksum: 8f6690e514e645dd2a38baf573e7a62a9555c95d6a27f84216be7b3ae4cdc1c09111d6f7a38250612e46aa9d562ccec63db9306ec179156381583b444bf552c2
   languageName: node
   linkType: hard
 
@@ -1354,7 +1354,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/google.maps@npm:^3.52.1":
+"@types/google.maps@npm:^3.52.5":
   version: 3.52.5
   resolution: "@types/google.maps@npm:3.52.5"
   checksum: 9b26cc9e68171eed49a5b7ef5f7fb95d8b5db85c4e658bf201b0774ac5daf50fb2e56ffecd6e55d9874aab3e56fdba4772032448cebc39390e0769a9c396ca4e
@@ -1410,14 +1410,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/lodash@npm:*, @types/lodash@npm:^4.14.191":
+"@types/lodash@npm:*, @types/lodash@npm:^4.14.194":
   version: 4.14.194
   resolution: "@types/lodash@npm:4.14.194"
   checksum: 113f34831c461469d91feca2dde737f88487732898b4d25e9eb23b087bb193985f864d1e1e0f3b777edc5022e460443588b6000a3b2348c966f72d17eedc35ea
   languageName: node
   linkType: hard
 
-"@types/node@npm:^18.14.6":
+"@types/node@npm:^18.15.11":
   version: 18.15.11
   resolution: "@types/node@npm:18.15.11"
   checksum: 977b4ad04708897ff0eb049ecf82246d210939c82461922d20f7d2dcfd81bbc661582ba3af28869210f7e8b1934529dcd46bff7d448551400f9d48b9d3bddec3
@@ -1460,7 +1460,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:^18.0.28":
+"@types/react@npm:^18.0.35":
   version: 18.0.35
   resolution: "@types/react@npm:18.0.35"
   dependencies:
@@ -1492,10 +1492,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/tabulator-tables@npm:5.4.4":
-  version: 5.4.4
-  resolution: "@types/tabulator-tables@npm:5.4.4"
-  checksum: 237fe967a0927f6b84d6061e58cc21442726d9166b03f71c54b85c5426f921f11f3d9c0e7d8a16744437f8ac10238c1df5986c04dc45c494f32fec27ed4e04da
+"@types/tabulator-tables@npm:5.4.6":
+  version: 5.4.6
+  resolution: "@types/tabulator-tables@npm:5.4.6"
+  checksum: b9659ab63a203aaa454816897eb4b2219c8145e6e72ea800df140c6df84bea83b761c47cceb0be2dcff136aa3228a94e49393c5f94ce269de1b419b52e610d62
   languageName: node
   linkType: hard
 
@@ -1513,7 +1513,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/eslint-plugin@npm:^5.54.0":
+"@typescript-eslint/eslint-plugin@npm:^5.58.0":
   version: 5.58.0
   resolution: "@typescript-eslint/eslint-plugin@npm:5.58.0"
   dependencies:
@@ -1537,7 +1537,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/parser@npm:^5.54.0":
+"@typescript-eslint/parser@npm:^5.58.0":
   version: 5.58.0
   resolution: "@typescript-eslint/parser@npm:5.58.0"
   dependencies:
@@ -1869,7 +1869,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"autoprefixer@npm:^10.4.13":
+"autoprefixer@npm:^10.4.14":
   version: 10.4.14
   resolution: "autoprefixer@npm:10.4.14"
   dependencies:
@@ -2723,7 +2723,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-prettier@npm:^8.6.0":
+"eslint-config-prettier@npm:^8.8.0":
   version: 8.8.0
   resolution: "eslint-config-prettier@npm:8.8.0"
   peerDependencies:
@@ -4832,35 +4832,35 @@ __metadata:
     "@ckeditor/ckeditor5-build-decoupled-document": ^36.0.1
     "@ckeditor/ckeditor5-build-inline": ^36.0.1
     "@fullcalendar/common": ^5.11.4
-    "@fullcalendar/core": ^6.1.4
-    "@fullcalendar/daygrid": ^6.1.4
-    "@fullcalendar/interaction": ^6.1.4
-    "@fullcalendar/list": ^6.1.4
-    "@fullcalendar/react": ^6.1.4
-    "@fullcalendar/resource": ^6.1.4
-    "@fullcalendar/timegrid": ^6.1.4
+    "@fullcalendar/core": ^6.1.5
+    "@fullcalendar/daygrid": ^6.1.5
+    "@fullcalendar/interaction": ^6.1.5
+    "@fullcalendar/list": ^6.1.5
+    "@fullcalendar/react": ^6.1.5
+    "@fullcalendar/resource": ^6.1.5
+    "@fullcalendar/timegrid": ^6.1.5
     "@googlemaps/js-api-loader": ^1.15.1
     "@googlemaps/markerclusterer": ^2.0.15
     "@headlessui/react": 1.7.11
-    "@hookform/resolvers": ^2.9.11
+    "@hookform/resolvers": ^3.1.0
     "@left4code/tw-starter": ^3.2.0
     "@reduxjs/toolkit": ^1.9.3
     "@tailwindcss/forms": ^0.5.3
     "@types/dropzone": ^5.7.4
     "@types/flat": ^5.0.2
-    "@types/google.maps": ^3.52.1
+    "@types/google.maps": ^3.52.5
     "@types/js-beautify": ^1.13.3
-    "@types/lodash": ^4.14.191
-    "@types/node": ^18.14.6
-    "@types/react": ^18.0.28
+    "@types/lodash": ^4.14.194
+    "@types/node": ^18.15.11
+    "@types/react": ^18.0.35
     "@types/react-dom": ^18.0.11
     "@types/react-transition-group": ^4.4.5
-    "@types/tabulator-tables": 5.4.4
+    "@types/tabulator-tables": 5.4.6
     "@types/toastify-js": ^1.11.1
-    "@typescript-eslint/eslint-plugin": ^5.54.0
-    "@typescript-eslint/parser": ^5.54.0
+    "@typescript-eslint/eslint-plugin": ^5.58.0
+    "@typescript-eslint/parser": ^5.58.0
     "@vitejs/plugin-react": ^3.1.0
-    autoprefixer: ^10.4.13
+    autoprefixer: ^10.4.14
     chart.js: ^4.2.1
     clsx: ^1.2.1
     dayjs: ^1.11.7
@@ -4868,7 +4868,7 @@ __metadata:
     eslint: ^8.38.0
     eslint-config-airbnb: 19.0.4
     eslint-config-airbnb-typescript: ^17.0.0
-    eslint-config-prettier: ^8.6.0
+    eslint-config-prettier: ^8.8.0
     eslint-plugin-import: ^2.27.5
     eslint-plugin-jsx-a11y: ^6.7.1
     eslint-plugin-prettier: ^4.2.1
@@ -4894,7 +4894,7 @@ __metadata:
     react-router-dom: 6.10.0
     react-transition-group: ^4.4.5
     sass: ^1.62.0
-    simplebar: ^6.2.1
+    simplebar: ^6.2.5
     tabulator-tables: ^5.4.4
     tailwind-merge: ^1.12.0
     tailwindcss: ^3.3.1
@@ -5347,7 +5347,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"simplebar@npm:^6.2.1":
+"simplebar@npm:^6.2.5":
   version: 6.2.5
   resolution: "simplebar@npm:6.2.5"
   dependencies:
