@@ -63,7 +63,7 @@
   "devDependencies": {
     "@types/dropzone": "^5.7.4",
     "@types/flat": "^5.0.2",
-    "@types/google.maps": "^3.52.1",
+    "@types/google.maps": "^3.52.2",
     "@types/js-beautify": "^1.13.3",
     "@types/lodash": "^4.14.191",
     "@types/node": "^18.14.6",

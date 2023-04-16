@@ -1336,10 +1336,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/google.maps@npm:^3.52.1":
-  version: 3.52.1
-  resolution: "@types/google.maps@npm:3.52.1"
-  checksum: 6d7b76672f1ff643a611c81103c1d3003204f9f97a84270e7130cb53c4be37b59842b06a95230e7bca98ddcab87c21b72599a117d24fc640b432f02b2da0a173
+"@types/google.maps@npm:^3.52.2":
+  version: 3.52.2
+  resolution: "@types/google.maps@npm:3.52.2"
+  checksum: 9ee6d0265fb68e3359d15bb8c0c629fb2340700e7f16fce4f68a4e69ca66f5c7aeec61b960a5527f92f88268f74ef48ac86a754f0e5ebd776aa42c36929bebc0
   languageName: node
   linkType: hard
 
@@ -4779,7 +4779,7 @@ __metadata:
     "@tailwindcss/forms": ^0.5.3
     "@types/dropzone": ^5.7.4
     "@types/flat": ^5.0.2
-    "@types/google.maps": ^3.52.1
+    "@types/google.maps": ^3.52.2
     "@types/js-beautify": ^1.13.3
     "@types/lodash": ^4.14.191
     "@types/node": ^18.14.6
